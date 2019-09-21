@@ -1,0 +1,23 @@
+{
+  "Dashboard": "لوحة المعلومات",
+  " Login": " تسجيل الدخول ",
+  "Welcome to BRAVE Dashboard": "مرحبًا بك في لوحة معلومات بريف",
+  "Version 2.0": "الإصدار 2.0",
+  "Copyright © 2017-": "حقوق الطبع والنشر © 2017-",
+  "All rights reserved.": "كل الحقوق محفوظة.",
+  "Sign in to start your session": "تسجيل الدخول للبدء",
+  "E-Mail Address": "عنوان بريد الكتروني",
+  "Password": "كلمه السر",
+  "Remember Me": "تذكرنى",
+  "I Forgot My Password?": "هل نسيت كلمة المرور؟",
+  "text-left": "text-right",
+  "text-right": "text-left",
+  "pull-right": "pull-left",
+  "ltr": "rtl",
+  "Arabic": "اللغة العربية",
+  "English": "اللغة الإنجليزية",
+  "Logout": "الخروج",
+  "Profile": "معلومات الشخصي",
+  "Welcome,  Please select a project": "مرحبا ، يرجى اختيار المشروع",
+  "Home": "الصفحة الرئيسية"
+}

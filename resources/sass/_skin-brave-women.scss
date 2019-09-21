@@ -1,0 +1,207 @@
+/*
+ * Skin: BRAVE Women
+ * ----------
+ */
+
+/*.brave-women-background:hover {background: linear-gradient(55deg, #ff6283, #a835b0);color:#ffffff;}*/
+.skin-brave-women .main-header .navbar {
+    /*background-color: #f9c862;*/
+    background: linear-gradient(254deg, rgba(155,16,176,1) 8%, rgba(255,71,105,1) 65%);
+}
+.skin-brave-women .main-header .navbar .nav > li > a {
+    color: #ffffff;
+}
+.skin-brave-women .main-header .navbar .nav > li > a:hover,
+.skin-brave-women .main-header .navbar .nav > li > a:active,
+.skin-brave-women .main-header .navbar .nav > li > a:focus,
+.skin-brave-women .main-header .navbar .nav .open > a,
+.skin-brave-women .main-header .navbar .nav .open > a:hover,
+.skin-brave-women .main-header .navbar .nav .open > a:focus,
+.skin-brave-women .main-header .navbar .nav > .active > a {
+    background: rgba(0, 0, 0, 0.1);
+    color: #f6f6f6;
+}
+.skin-brave-women .main-header .navbar .sidebar-toggle {
+    color: #ffffff;
+}
+.skin-brave-women .main-header .navbar .sidebar-toggle:hover {
+    color: #f6f6f6;
+    background: rgba(0, 0, 0, 0.1);
+}
+.skin-brave-women .main-header .navbar .sidebar-toggle {
+    color: #fff;
+}
+.skin-brave-women .main-header .navbar .sidebar-toggle:hover {
+    background-color: rgba(255,71,105,1);
+}
+@media (max-width: 767px) {
+    .skin-brave-women .main-header .navbar .dropdown-menu li.divider {
+        background-color: rgba(255, 255, 255, 0.1);
+    }
+    .skin-brave-women .main-header .navbar .dropdown-menu li a {
+        color: #fff;
+    }
+    .skin-brave-women .main-header .navbar .dropdown-menu li a:hover {
+        background: rgba(255,71,105,1);
+    }
+}
+.skin-brave-women .main-header .logo {
+    background-color: rgba(155,16,176,1);
+    color: #ffffff;
+    border-bottom: 0 solid transparent;
+}
+.skin-brave-women .main-header .logo:hover {
+    background-color: rgba(255,71,105,1);
+}
+.skin-brave-women .main-header li.user-header {
+    /*background-color: #f9c862;*/
+    background: linear-gradient(254deg, rgba(155,16,176,1) 8%, rgba(255,71,105,1) 65%);
+}
+.skin-brave-women .content-header {
+    background: transparent;
+}
+.skin-brave-women .wrapper,
+.skin-brave-women .main-sidebar,
+.skin-brave-women .left-side {
+    background-color: #222d32;
+}
+.skin-brave-women .user-panel > .info,
+.skin-brave-women .user-panel > .info > a {
+    color: #fff;
+}
+.skin-brave-women .sidebar-menu > li.header {
+    color: #4b646f;
+    background: #1a2226;
+}
+.skin-brave-women .sidebar-menu > li > a {
+    border-left: 3px solid transparent;
+}
+.skin-brave-women .sidebar-menu > li:hover > a,
+.skin-brave-women .sidebar-menu > li.active > a,
+.skin-brave-women .sidebar-menu > li.menu-open > a {
+    color: #ffffff;
+    background: #1e282c;
+}
+.skin-brave-women .sidebar-menu > li.active > a {
+    border-left-color: rgba(155,16,176,1);
+}
+.skin-brave-women .sidebar-menu > li > .treeview-menu {
+    margin: 0 1px;
+    background: #2c3b41;
+}
+.skin-brave-women .sidebar a {
+    color: #b8c7ce;
+}
+.skin-brave-women .sidebar a:hover {
+    text-decoration: none;
+}
+.skin-brave-women .sidebar-menu .treeview-menu > li > a {
+    color: #8aa4af;
+}
+.skin-brave-women .sidebar-menu .treeview-menu > li.active > a,
+.skin-brave-women .sidebar-menu .treeview-menu > li > a:hover {
+    color: #ffffff;
+}
+.skin-brave-women .sidebar-form {
+    border-radius: 3px;
+    border: 1px solid #374850;
+    margin: 10px 10px;
+}
+.skin-brave-women .sidebar-form input[type="text"],
+.skin-brave-women .sidebar-form .btn {
+    box-shadow: none;
+    background-color: #374850;
+    border: 1px solid transparent;
+    height: 35px;
+}
+.skin-brave-women .sidebar-form input[type="text"] {
+    color: #666;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 2px;
+}
+.skin-brave-women .sidebar-form input[type="text"]:focus,
+.skin-brave-women .sidebar-form input[type="text"]:focus + .input-group-btn .btn {
+    background-color: #fff;
+    color: #666;
+}
+.skin-brave-women .sidebar-form input[type="text"]:focus + .input-group-btn .btn {
+    border-left-color: #fff;
+}
+.skin-brave-women .sidebar-form .btn {
+    color: #999;
+    border-top-left-radius: 0;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border-bottom-left-radius: 0;
+}
+.skin-brave-women .layout-top-nav .main-header > .logo {
+    background-color: rgba(255,71,105,1);
+    color: #ffffff;
+    border-bottom: 0 solid transparent;
+}
+.skin-brave-women .layout-top-nav .main-header > .logo:hover {
+    background-color: rgba(255,71,105,1);
+}
+.skin-brave-women .brave-border {
+    border-top: 1px solid rgba(155,16,176,1);
+}
+.skin-brave-women .label-brave {
+    background-color: rgba(155,16,176,1) !important;
+}
+.skin-brave-women .label-brave-small {
+    margin-bottom: 1px;
+    height: 30px;
+    line-height:30px;
+    padding:0px 15px;
+}
+.skin-brave-women .alert-brave {
+    color: rgb(255, 255, 255) !important;
+    background: linear-gradient(254deg, rgba(155,16,176,1) 8%, rgba(255,71,105,1) 65%) !important;
+    border-color: #faebcc !important;
+}
+.skin-brave-women .alert-warning hr {
+    border-top-color: #f7e1b5;
+}
+
+.skin-brave-women .alert-warning .alert-link {
+    color: rgba(255,71,105,1);
+}
+.skin-brave-women .alert-brave-small {
+    margin-bottom: 1px !important;
+    height: 30px !important;
+    line-height:30px !important;
+    padding:0 15px !important;
+}
+
+.skin-brave-women .btn-colors {
+    background: linear-gradient(254deg, rgba(155,16,176,1) 8%, rgba(255,71,105,1) 65%) !important;
+}
+.skin-brave-women .btn-colors:hover {
+    background: linear-gradient(254deg, rgba(155,16,176,1) 8%, rgba(255,71,105,1) 65%) !important;
+}
+.skin-brave-women .text-brave {
+    color: rgba(255,71,105,1);
+}
+.skin-brave-women .tab-brave>li>a {
+    background-color: #ffffff !important;
+    font-weight: bold !important;
+    color: #000000 !important;
+    border-left-color: rgba(155,16,176,1) !important;
+    border-right-color: rgba(155,16,176,1) !important;
+    border-top-color: rgba(155,16,176,1) !important;
+}
+
+.skin-brave-women .tab-brave>li.active>a, .nav-tabs>li.active> a:hover, .nav-tabs> li.active> a:focus {
+    color: #000 !important;
+    background-color: rgba(255,71,105,1) !important;
+    border: 1px solid rgba(255,71,105,1) !important;
+    font-weight: bold !important;
+}
+
+.skin-brave-women .tab-brave>li>a:hover {
+    border-color: rgba(255,71,105,1) !important;
+    background-color: rgba(155,16,176,1) !important;
+    font-weight: bold !important;
+}

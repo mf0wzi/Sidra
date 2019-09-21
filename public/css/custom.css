@@ -1,0 +1,77 @@
+.border {
+    border: 1px solid #dee2e6 !important;
+}
+.border-top {
+    border-top: 1px solid #dee2e6 !important;
+}
+.border-right {
+    border-right: 1px solid #dee2e6 !important;
+}
+.border-bottom {
+    border-bottom: 1px solid #dee2e6 !important;
+}
+.border-left {
+    border-left: 1px solid #dee2e6 !important;
+}
+.border-0 {
+    border: 0 !important;
+}
+.border-top-0 {
+    border-top: 0 !important;
+}
+.border-right-0 {
+    border-right: 0 !important;
+}
+.border-bottom-0 {
+    border-bottom: 0 !important;
+}
+.border-left-0 {
+    border-left: 0 !important;
+}
+.border-primary {
+    border-color: #007bff !important;
+}
+.border-secondary {
+    border-color: #6c757d !important;
+}
+.border-success {
+    border-color: #28a745 !important;
+}
+.border-info {
+    border-color: #17a2b8 !important;
+}
+.border-warning {
+    border-color: #ffc107 !important;
+}
+.border-danger {
+    border-color: #dc3545 !important;
+}
+.border-light {
+    border-color: #f8f9fa !important;
+}
+.border-dark {
+    border-color: #343a40 !important;
+}
+.border-white {
+    border-color: #fff !important;
+}
+.modal-backdrop {
+    z-index: 55554;
+}
+.ace_text-input {
+    position: absolute!important;
+}
+.modal-dark .modal-header {
+    background-color: #526069 !important;
+}
+.modal-dark {
+    border-color: #526069;
+}
+.modal-dark .modal-body,
+.modal-dark .modal-header,
+.modal-dark .modal-footer,
+.modal-dark .modal-header .close {
+    color: #fff !important;
+}
+
+

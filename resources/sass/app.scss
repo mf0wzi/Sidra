@@ -1,0 +1,56 @@
+// Variables
+@import 'variables';
+
+// Bootstrap 3 and some Bootstrap 4
+@import '~bootstrap-sass/assets/stylesheets/bootstrap';
+@import 'bootstrap-card';
+@import 'bootstrap-shadows';
+@import 'bootstrap-spacing';
+@import 'bootstrap-rounded';
+
+// animate.css
+@import '~animate.css/animate.css';
+
+// font awesome animation
+@import '~font-awesome-animation/dist/font-awesome-animation.css';
+
+// Hover.css
+@import 'hover-effects';
+
+// Font Awesome 4
+@import '~font-awesome/css/font-awesome.css';
+
+// Ionicons
+@import '~ionicons/scss/ionicons';
+
+// Chart Js
+@import '~chart.js/dist/Chart.css';
+
+// DataTable
+@import '~datatables/media/css/jquery.dataTables.css';
+@import '~datatables-bootstrap3-plugin/media/css/datatables-bootstrap3.css';
+
+// Leaflet
+@import '~leaflet/dist/leaflet.css';
+
+//leaflet.easybutton
+@import '~leaflet-easybutton/src/easy-button.css';
+
+//leaflet.markercluster
+@import '~leaflet.markercluster/dist/MarkerCluster.css';
+@import '~leaflet.markercluster/dist/MarkerCluster.Default.css';
+
+//leaflet.extra-markers
+@import '~leaflet-extra-markers/dist/css/leaflet.extra-markers.min.css';
+
+//leaflet.fullscreen
+@import '~leaflet.fullscreen/Control.FullScreen.css';
+
+// Admin-lte
+@import '~admin-lte/dist/css/AdminLTE.css';
+@import '~admin-lte/dist/css/skins/_all-skins.css';
+@import 'skin-brave';
+@import 'skin-brave-women';
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic');
